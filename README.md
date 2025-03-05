@@ -2,7 +2,7 @@
 
 ## About This Project
 This is designed to bring a smile to my love’s face, even across distances.  
-Since I am a software engineer, I wanted to **code my love** into something special!  
+Since I Love my BUBU, I wanted to **code my love** into something special!  
   
 
 ## How to Run  
