@@ -7,5 +7,5 @@ Since I am a software engineer, I wanted to **code my love** into something spec
 
 ## How to Run  
 1. Copy the code in Nonu.py
-2. Paste it into any “Online Python Compiler”
+2. Paste it into any “Online Python Compiler” (https://www.online-python.com/)
 3. Press Run
